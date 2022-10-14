@@ -1,0 +1,2 @@
+root url = /
+admin url = /a7dh3217sdj2ye1ed98hd128sdj8j128e818ed8j18d2j182d
